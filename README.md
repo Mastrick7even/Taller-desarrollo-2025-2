@@ -1,2 +1,2 @@
-#Bastian Arriagada Quero
-#Diego Vargas Gomez
+#Bastian Vargas Quero
+#Diego Vargas Arriagada
